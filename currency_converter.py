@@ -29,3 +29,4 @@ def currency_converter():
           print(f'{value}GBP is equivalent to {value*1.17012}EUR \n')
       else:
         print('Enter a valid number range')
+        #keep trying
