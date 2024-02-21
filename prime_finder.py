@@ -11,3 +11,4 @@ def prime_finder(number):
 number = int(input('please enter a number: '))
 prime_finder(number)
 #testingg
+#how to add
