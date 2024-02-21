@@ -10,3 +10,4 @@ def prime_finder(number):
         print('This is not a prime number')
 number = int(input('please enter a number: '))
 prime_finder(number)
+#testingg
